@@ -1,0 +1,152 @@
+{"properties": [
+  {
+    "name": "kafka.bootstrap-servers",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.bootstrap-servers'"
+  },
+  {
+    "name": "kafka.group-id",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.group-id'"
+  },
+  {
+    "name": "kafka.topics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.topics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "project",
+    "type": "java.lang.String",
+    "description": "A description for 'project'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.retry.max-attempts",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.retry.max-attempts'"
+  },
+  {
+    "name": "kafka.retry.backoff-interval",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.retry.backoff-interval'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.security.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.security.protocol'"
+  },
+  {
+    "name": "kafka.sasl.mechanism",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.sasl.mechanism'"
+  },
+  {
+    "name": "kafka.sasl.jaas.config",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.sasl.jaas.config'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.dlqTopics",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.dlqTopics'"
+  },
+  {
+    "name": "kafka.consumer.max-poll-records",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.max-poll-records'"
+  },
+  {
+    "name": "kafka.consumer.batch-insert-size",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.batch-insert-size'"
+  },
+  {
+    "name": "kafka.consumer.fetch-max-wait-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.fetch-max-wait-ms'"
+  },
+  {
+    "name": "kafka.consumer.offset-save-threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.offset-save-threshold'"
+  },
+  {
+    "name": "kafka.consumer.poll-timeout-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.poll-timeout-ms'"
+  },
+  {
+    "name": "kafka.consumer.max-poll-interval-ms",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.max-poll-interval-ms'"
+  },
+  {
+    "name": "kafka.consumer.receive-buffer-bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.consumer.receive-buffer-bytes'"
+  }
+]}
